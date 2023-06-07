@@ -1,0 +1,36 @@
+var mes = "Marzo";
+switch (mes) {
+  case "Enero":
+    console.log("Este seria el mes de" +mes);
+  break;
+  case 'Febrero':
+    console.log("Este seria el mes de" +mes);
+  break;
+  case 'Marzo':
+    console.log("Este seria el mes de" +mes);
+  break;
+  case 'Abril':
+    console.log("Este seria el mes de" +mes);
+    break;
+  case 'Mayo':
+    console.log("Este seria el mes de" +mes);
+    break;
+   case 'Junio':
+    console.log("Este seria el mes de" +mes);
+    break;
+    case 'Julio':
+    console.log("Este seria el mes de" +mes);
+    break;
+    case 'Agosto':
+    console.log("Este seria el mes de" +mes);
+    break;
+    case 'Septiembre':
+    console.log("Este seria el mes de" +mes);
+    break;
+    case 'Octubre':
+    console.log("Este seria el mes de" +mes);
+    break;
+  default:
+    console.log('Seria para otro dia ' + dia + '.');
+}
+
